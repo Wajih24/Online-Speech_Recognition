@@ -3,7 +3,7 @@ This project is an online speech_recognition using Google speech API , it's a fr
 
 ## Getting Started 
 # Step 1 : package installation 
-To make sure that everything will work fine , Python 3.6 or higher is required 
+#### To make sure that everything will work fine , Python 3.6 or higher is required 
 ==> For Windows users : 
 ``` bash
 #Our main packages 'SpeechRecognition' and 'pyttsx3'
