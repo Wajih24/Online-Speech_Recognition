@@ -43,6 +43,6 @@ sudo apt-get install espeak
 
 # Step 2 : Running 
 So now moving to the running process , things are similar between Windows and Unbuntu users :
-1- cd <project_folder_path>
-2- python main.py
-3- a log+date.txt will be created that contains the text speech of each day with the exact speak time  
+## 1- cd <project_folder_path>
+## 2- python main.py 
+## 3- a log+date.txt will be created that contains the text speech of each day with the exact speak time  
